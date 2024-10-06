@@ -1,4 +1,4 @@
-# quasar
+# micado-backend
 Node image for developing MICADO backend.
 
 This repository contains the Dockerfile for the image used to develop the MICADO backend.
