@@ -5,7 +5,7 @@ name: Create and publish a Docker image
 on:
   push:
     branches: 
-      - 'master'
+      - 'main'
       - '2024'
     tags:
       - 'v*'
